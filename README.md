@@ -6,4 +6,4 @@ Statistiken zu Analyse und Kontrolle des Betriebs.
 Verwendete Technologien: Java SE, JavaFX 2.2, JDBC, MySQL, NetBeans IDE,
 SceneBuilder, CSS, XML, FXML, HTML.
 
-[[http://i64.tinypic.com/2lw974n.png]]
+![Alt text](http://i64.tinypic.com/2lw974n.png "Main menu")

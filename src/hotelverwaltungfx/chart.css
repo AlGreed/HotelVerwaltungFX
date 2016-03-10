@@ -1,0 +1,32 @@
+/* 
+    Document   : chart
+    Created on : 27.11.2013, 15:51:02
+    Author     : Nosenko
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.chart-plot-background {
+    -fx-background-color: #999999;
+}
+
+.chart-alternative-row-fill {
+    -fx-fill: #666666;
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0;
+}
+
+//.default-color0.chart-series-line { -fx-stroke: #ff9533; }
+//.default-color1.chart-series-line { -fx-stroke: #BAF794; }
+
+.axis {
+    -fx-font-size: 1.4em;    
+    -fx-tick-label-fill: #ff9533;
+    -fx-font-family: Tahoma;
+    -fx-tick-length: 20;
+    -fx-minor-tick-length: 10;
+}

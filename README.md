@@ -1,9 +1,9 @@
 # HotelVerwaltungFX
 Hotel Management (University project)
 
-Dieses Programm bildet die Buchungsprozesse im Hotelbetrieb ab und liefert
-Statistiken zu Analyse und Kontrolle des Betriebs.
-Verwendete Technologien: Java SE, JavaFX 2.2, JDBC, MySQL, NetBeans IDE,
+This program represents the booking processes in a hotel and provides
+statistics.
+Used Technologies and Programming Languagesn: Java SE, JavaFX 2.2, JDBC, MySQL, NetBeans IDE,
 SceneBuilder, CSS, XML, FXML, HTML.
 
 Main menu:

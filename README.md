@@ -19,6 +19,7 @@ Management menu:
 ![Alt text](http://i67.tinypic.com/fmmosm.png "Management menu")
 
 Grafics:
+
 ![Alt text](http://i67.tinypic.com/f5t0g.png "Grafics")
 
 Tables:

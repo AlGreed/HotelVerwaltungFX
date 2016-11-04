@@ -3,7 +3,7 @@ Hotel Management (University project)
 
 This program represents the booking processes in a hotel and provides
 statistics.
-Used Technologies and Programming Languagesn: Java SE, JavaFX 2.2, JDBC, MySQL, NetBeans IDE,
+Used Technologies and Programming Languages: Java SE, JavaFX 2.2, JDBC, MySQL, NetBeans IDE,
 SceneBuilder, CSS, XML, FXML, HTML.
 
 Main menu:
